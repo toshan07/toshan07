@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Toshan!  
 
-💡 **Pre-final year Data Science undergraduate at IIT Mandi**  
+💡 **Final year Data Science undergraduate at IIT Mandi**  
 🔬 Passionate about **AI, Machine Learning, Deep Learning, and NLP**  
 💻 **DSA Enthusiast | Problem Solver** – Actively solving problems on platforms like **Codeforces, Leetcode, and GFG**  
 🚀 Exploring **Generative AI and Large Language Models (LLMs)**
